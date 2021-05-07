@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "https://picsum.photos/id/1028/800/400"
 categories = []
 date = "2017-05-20T11:58:06+02:00"
 description = ""
